@@ -1,23 +1,7 @@
 ### 关于我
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eshengsky&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=22" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ddzyan&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=22" />
 
-📫 曾就职于明基、微软、5173、驴妈妈、平安等，现为蔚来资深工程师。  
-⚡ 对C#、.NET、Vue、React、JavaScript、TypeScript、CSS等前后端技术都略知一二。  
-😄 爱好上网、游戏、看小说，喜欢尝试新的事物。  
-💬 你可以通过邮件 eshengsky@163.com 找到我。
-
-<!--
-**eshengsky/eshengsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+📫 曾就职于滴滴出行，负责集团 serverless ，node.js 基础设施，ssr 等
+⚡ React、JavaScript、TypeScript、CSS等前后端技术都略知一二。  
+😄 爱好阅读、看电影、打篮球、跑步等。  
+💬 你可以通过邮件 ddzyan@163.com 找到我。
