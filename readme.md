@@ -11,3 +11,8 @@
 <a href="https://github.com/ddzyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddzyan&layout=compact&theme=radical" />
 </a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+</p>
