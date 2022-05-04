@@ -6,11 +6,7 @@
 💬 你可以通过邮件 ddzyan@163.com 找到我。
 
 
-|![](https://github-readme-stats.vercel.app/api?username=ddzyan&show_icons=true&theme=radical)|[![孺子牛's github Stats](https://stats.justsong.cn/api/github?username=ddzyan&theme=dark)](https://github.com/ddzyan/ddzyan/)|
-|-|-|
-
-
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddzyan&layout=compact&theme=tokyonight&langs_count=10)|[![孺子牛's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=ruziniu&theme=dark&cn=true)](https://leetcode-cn.com/u/ruziniu/)|
+|![](https://github-readme-stats.vercel.app/api?username=ddzyan&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddzyan&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
 <p align="center"> 
