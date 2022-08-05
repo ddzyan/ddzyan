@@ -1,6 +1,6 @@
 ## 关于我
 
-📫 曾就职于滴滴出行，负责集团 serverless共建 ，node.js 基础设施建设，前端提效平台工具研发，中台服务搭建 等  
+📫 曾就职于滴滴出行，负责集团 serverless，node.js 企业框架和基础设施建设，前端提效平台工具研发，中台服务搭建 等  
 ⚡ JAVA、Python、React、JavaScript、TypeScript、CSS等前后端技术都略知一二。  
 😄 爱好阅读、看电影、打篮球、跑步等。  
 💬 你可以通过邮件 ddzyan@163.com 找到我。
