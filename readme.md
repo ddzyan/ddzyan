@@ -1,10 +1,16 @@
 ## 关于我
 
-📫 杭州卖好车 CTO，前字节方舟总经理兼 CTO | 华为企业高管培训毕业，滴滴出行资深研发工程师。</br>
-📫 10 年 + IT 行业经验，主导多家公司数字化转型，牵头企业战略洞察、规划与落地；从零搭建技术团队，全面负责产品、技术、项目管理。</br>
-⚡ 深耕全栈技术（JAVA、Python、React 等），近 2 年聚焦大模型推理优化，推动技术方案落地。</br>
-😄 爱好阅读、看电影、打篮球、跑步等。</br>
-💬 邮箱：ddzyan@163.com
+杭州卖好车 CTO & 副总裁 | 前杭州字节方舟总经理兼 CTO | 前滴滴出行资深前端架构师 | 前阿里云资深前端工程师
+
+华为企业高管培训毕业
+
+🔹 战略与转型：拥有 10 余年 IT 行业经验，主导多家企业数字化转型，擅长从战略洞察、技术规划到项目落地的全过程管理。
+
+🔹 团队与组织：具备 5 年以上技术团队管理经验，曾负责覆盖产品、前后端、架构、测试、运维的 100+ 人团队，具备丰富的 0 到 1 搭建与规模化经验，所带部门连续多年绩效优秀。
+
+🔹 技术栈：全栈开发（Java / Python / Node.js / Go），近两年聚焦于 大模型推理优化​ 及相关技术方案的落地实践。
+
+📫 欢迎交流：ddzyan@163.com
 
 
 |![](https://github-readme-stats.vercel.app/api?username=ddzyan&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddzyan&layout=compact&theme=tokyonight&langs_count=10)|
