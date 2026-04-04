@@ -11,12 +11,3 @@
 🔹 技术栈：全栈开发（Java / Python / Node.js / Go），近两年聚焦于 大模型推理优化​ 及相关技术方案的落地实践。
 
 📫 欢迎交流：ddzyan@163.com
-
-
-|![](https://github-readme-stats.vercel.app/api?username=ddzyan&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddzyan&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ddzyan/count.svg" />
-</p>
